@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisagaaaaaaaaa
+- 👋 Hi, I’m @thisaga
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning python
 
